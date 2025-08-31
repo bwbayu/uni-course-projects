@@ -1,1 +1,60 @@
+<<<<<<< HEAD
 .
+=======
+[submodule "Deep Learning Course"]
+	path = Deep Learning Course
+	url = https://github.com/bwbayu/Deep-Learning-Projects
+	branch = main
+[submodule "Consulting Projects Course"]
+	path = Consulting Projects Course
+	url = https://github.com/bwbayu/Web_Inventaris
+	branch = main
+[submodule "Big Data Course"]
+	path = Big Data Course
+	url = https://github.com/bwbayu/Big-Data
+	branch = main
+[submodule "Object-Oriented Programming Course"]
+	path = Object-Oriented Programming Course
+	url = https://github.com/bwbayu/DPBO_Tasks
+	branch = main
+[submodule "Mobile App Course"]
+	path = Mobile App Course
+	url = https://github.com/bwbayu/P2P_Lending_App_Flutter
+	branch = main
+[submodule "Operating System Course"]
+	path = Operating System Course
+	url = https://github.com/bwbayu/Scheduling_Algorithm_OS
+	branch = main
+[submodule "Artificial Intelligence Course"]
+	path = Artificial Intelligence Course
+	url = https://github.com/bwbayu/Artificial_Intelligence
+	branch = main
+[submodule "Data Mining Course"]
+	path = Data Mining Course
+	url = https://github.com/bwbayu/Data_Mining
+	branch = main
+[submodule "Database Management System Course"]
+	path = Database Management System Course
+	url = https://github.com/bwbayu/Database_System_Website
+	branch = main
+[submodule "Web Programming Course"]
+	path = Web Programming Course
+	url = https://github.com/bwbayu/Web_Programming
+	branch = main
+[submodule "Data Structure Course"]
+	path = Data Structure Course
+	url = https://github.com/bwbayu/Data-Structure
+	branch = main
+[submodule "Algorithm Programming Course"]
+	path = Algorithm Programming Course
+	url = https://github.com/bwbayu/programming_algorithm_2
+	branch = main
+[submodule "Algorithm Programming Course"]
+	path = Algorithm Programming Course
+	url = https://github.com/bwbayu/programming_algorithm_1
+	branch = main
+[submodule "Data Mining Course - Classification"]
+	path = Data Mining Course - Classification
+	url = https://github.com/bwbayu/klasifikasi_data_mining
+	branch = main
+>>>>>>> 3076f11 (Add README)
