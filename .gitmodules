@@ -54,3 +54,11 @@
 	path = Data Mining Course - Classification
 	url = https://github.com/bwbayu/klasifikasi_data_mining
 	branch = main
+[submodule "Balai Bahasa Engine - Internship"]
+	path = Balai Bahasa Engine - Internship
+	url = https://github.com/bwbayu/react_flask_tts_stt
+	branch = main
+[submodule "Emotion Learning Engine - Internship"]
+	path = Emotion Learning Engine - Internship
+	url = https://github.com/bwbayu/react_flask_fer
+	branch = main
